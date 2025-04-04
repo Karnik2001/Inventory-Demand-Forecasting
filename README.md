@@ -55,3 +55,7 @@ Each model was trained and validated using historical sales data, with performan
 ## Final Conclusion
 
 The study validates the effectiveness of machine learning and time series models in forecasting inventory demand. The findings suggest that businesses can significantly improve inventory control and supply chain responsiveness by integrating advanced forecasting tools. Random Forest emerged as the most robust model, offering actionable insights for procurement and inventory teams.
+
+## Citations 
+
+https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/
