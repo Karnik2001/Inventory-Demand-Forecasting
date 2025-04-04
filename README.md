@@ -59,3 +59,5 @@ The study validates the effectiveness of machine learning and time series models
 ## Citations 
 
 https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/
+
+https://www.geeksforgeeks.org/python-data-visualization-tutorial/?utm_source=geeksforgeeks&utm_medium=gfgcontent_shm&utm_campaign=shm
